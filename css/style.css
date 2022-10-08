@@ -1,0 +1,35 @@
+@import url("components/sidebar.css");
+@import url("components/page-content.css");
+@import url("components/banner.css");
+@import url("components/introduction.css");
+@import url("components/contactus.css");
+@import url("components/aboutus.css");
+@import url("components/secondhand-trade.css");
+@import url("components/chatbox-bloc.css");
+
+body{
+  line-height: 1.6;
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+}
+h1{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2{
+  font-size: 20px;
+}
+
+h3{
+  font-size: 18px;
+}
+
+.btn{
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-decoration: none;
+}

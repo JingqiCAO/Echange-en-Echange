@@ -1,0 +1,34 @@
+.banner {
+  background-image: linear-gradient(-300deg, rgba(0,0,0,0.8) 0%, rgba(85, 111, 68,0.3) 50%),url(../../images/background.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 100px 150px;
+}
+
+.container {
+  color: white;
+}
+
+.container h1 {
+  color: white;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: left;
+}
+
+.container h2 {
+  color: white;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.btn-green{
+  background-color: rgb(124, 189, 30);
+  margin: 50px 0px;
+}
+
+.btn-grey{
+  background-color: grey;
+  margin: 20px 20px;
+}

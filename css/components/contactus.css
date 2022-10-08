@@ -1,0 +1,35 @@
+.contactus{
+  padding: 20px 0;
+  margin-top: 20px;
+  color: white;
+  background-color: rgb(19,25,16);
+  font-family:  'Roboto Condensed', sans-serif;
+}
+
+.contactus h1{
+  font-family: 'Lato', sans-serif;
+  line-height: 1;
+}
+
+.contactus h2{
+  font-size: 25px;
+  margin-left: 50px;
+}
+
+.contactus p{
+  font-size: 20px;
+}
+
+.rolls{
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-context{
+  margin:0 50px;
+}
+
+.contactus a {
+  color: white;
+  text-decoration: none;
+}

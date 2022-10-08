@@ -1,0 +1,52 @@
+.introduction{
+  margin: 30px auto;
+  text-align: center;
+  font-size: 20px;
+}
+
+.card-white {
+  background-color: rgba(114,175,29,0.6);
+  padding: 30px 30px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+}
+
+.card-white img {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 20px;
+  margin-right: 30px;
+}
+
+.card-white h2{
+  font-size: 25px;
+  color: white;
+  background-color: rgba(85,111,68,0.5);
+}
+
+.img-text{
+  display: flex;
+  justify-content: space-around;
+}
+
+.text-box{
+  background-color: rgba(255,255,255,0.5);
+  height: 200px;
+  padding: 0 30px;
+}
+
+.secondtrade{
+  margin-bottom: 20px;
+}
+
+.btn-intro{
+  background-color: rgb(80,123,20);
+  margin-top: 20px;
+}
+.text-box p{
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+#btn-introd{
+  font-size: 15px;
+}

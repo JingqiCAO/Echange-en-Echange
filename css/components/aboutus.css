@@ -1,0 +1,37 @@
+.cards-creater {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-creater{
+  background-color: rgba(114,175,29,0.6);
+  padding: 30px 30px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+.card-creater img{
+  width: 180px;
+  height: 240px;
+}
+
+.card-creater h2{
+  color: white;
+  background-color: rgba(85,111,68,0.5);
+}
+
+.card-creater h3{
+  font-size: 22px;
+}
+
+.card-creater p{
+  text-align: left;
+  font-size: 18px;
+  background-color: rgba(255,255,255,0.5);
+  padding: 20px 25px;
+  height: 300px;
+}
+
+.creater2{
+  margin:0px 20px;
+}
